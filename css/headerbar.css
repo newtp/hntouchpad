@@ -1,0 +1,59 @@
+.reddos-header-bar {
+    height: 56px;
+    padding-right: 12px;
+    padding-left: 12px;
+    
+    font-size: 18px;
+    color: #04396C;
+    
+    background-color: #CEE3F8;
+    background: -webkit-gradient(linear, left top, left bottom, color-stop(20%,#cee3f8), color-stop(100%,#679ed2));
+}
+
+.reddos-header-title {
+    font-size: 28px;
+    font-weight: normal;
+    letter-spacing: -2px;
+    color: #04396C;
+    margin-left: 15px;
+    margin-right: 30px;
+}
+
+.reddos-header-button {
+    color: white;
+    background-color: #0C5AA6;
+    border-radius: 4px;
+    padding: 8px 12px 8px 12px;
+    font-size: 15px;
+    font-weight: bold;
+    margin-left: 8px;
+}
+
+.reddos-header-light-button {
+    color: #04396C;
+    background-color: white;
+}
+
+.reddos-header-light-button-down {
+    color: #FF4500;
+    background-color: #EEE;
+}
+
+.reddos-header-mail {
+    width: 24px;
+    background-repeat: no-repeat;
+    background-image: url("../images/mail-notification.png");
+    background-position: center;
+}
+
+.reddos-header-mail-new {
+    width: 24px;
+    background-image: url("../images/mail-notification-new.png");
+    background-position: center;
+    background-repeaT: no-repeat;
+}
+
+.reddos-header-button-down {
+    color: #FF4500;
+    background-color: #04396C;
+}

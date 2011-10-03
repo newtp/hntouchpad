@@ -1,0 +1,22 @@
+body {
+    background-color: #CEE3F8;
+}
+
+.reddos-toolbar {
+    /*background-color: #0C5AA6;*/
+    background-color: #336EA5;
+    /*background-color: #679ED2;*/
+    height: 32px;
+}
+
+.enyo-grabbutton {
+    position: static !important;
+}
+
+hr {
+    border: 0;
+    color: #444;
+    background-color: #444;
+    height: 1px;
+}
+

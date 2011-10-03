@@ -1,0 +1,106 @@
+.reddos-comments-block {
+    padding: 15px;
+}
+
+.reddos-comment-item-header-selftextt p,
+.reddos-comment-content p {
+    margin: 0 0 0.5em 0;
+}
+
+.reddos-comments-selftext p:last-child,
+.reddos-comment-content p:last-child {
+    margin: 0;
+}
+
+.reddos-comment-item {
+    margin: 0;
+    padding: 0;
+    font-size: 15px;
+    border: 0;
+    background-image: url("../images/comment_lines.png");
+}
+
+.reddos-comment-item-header {
+    background-color: #E9F2FC;
+    padding: 15px;
+    font-size: 15px;
+}
+
+.reddos-comment-item-header-title {
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.reddos-comment-item-header-meta {
+}
+
+.reddos-comment-item-header-selftext {
+    margin-top: 1em;
+}
+
+.reddos-comment-wrapper {
+    border: 0;
+    padding: 0;
+    background-color: #FFF;
+    padding: 0.75em 1em 1em 0;
+};
+
+.reddos-comment-item:first-of-type {
+   margin: 0;
+}
+
+.reddos-comment-header {
+    font-size: 0.9em;
+    margin-bottom: 0.5em;
+    color: #666666;
+}
+
+.reddos-comment-author {
+    font-weight: bold;
+    color: #04396C;
+    margin-right: 0.5em;
+}
+
+.reddos-comment-author-op {
+    color: #FF4500;
+}
+
+.reddos-comment-item-collapsed {
+    color: #999 !important;
+    font-style: italic !important;
+}
+
+.reddos-comment-collapsebutton {
+    margin-left: 0.5em; 
+    font-weight: bold;
+    background-color: #DDD;
+    color: #666;
+    border-radius: 5px;
+    padding: 3px 10px 3px 10px;
+}
+
+.reddos-comment-collapsebutton-down {
+    background-color: #999;
+}
+
+.reddos-comment-replies {
+    border-width: 0 0 0 1px;
+    border-color: #CCC;
+    border-style: solid;
+    padding-left: 1em;
+    margin-top: 1em;
+}
+
+.reddos-comment-item-header-selftext blockquote,
+.reddos-comment-content blockquote {
+    margin: 0 0 0.5em 0.5em;
+    padding: 0.5em 0.5em 0.5em 0.8em;
+    color: #444;
+    background-color: #EEE;
+    border-radius: 5px;
+ }
+ 
+ .reddos-comment-item-header-selftext blockquote {
+    background-color: #FFF;
+ }
+
